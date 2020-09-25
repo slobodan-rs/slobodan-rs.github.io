@@ -1,11 +1,12 @@
 html {
-    scroll-behavior: smooth;  
+    scroll-behavior: smooth;
 }
 body {
-    font-family: "Exo 2", sans-serif;
+    font-family: "Exo 2", "Trebuchet MS", Helvetica, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 /* -------------- Header ----------------- */
 header {
