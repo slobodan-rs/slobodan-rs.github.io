@@ -194,6 +194,7 @@ footer a {
 footer a:hover {
     color: #1544c0;
 }
+/* ------------MEDIA Query --------------- */
 @media only screen and (max-width: 768px) {
     .nav-bar {
         font-size: 1.6em;
@@ -220,7 +221,7 @@ footer a:hover {
     }
     .section-left h1 {
         font-size: 6em;
-        line-height: 10px;
+        line-height: 12px;
         margin-bottom: 1em;
         padding: 5px 10px;
     }
