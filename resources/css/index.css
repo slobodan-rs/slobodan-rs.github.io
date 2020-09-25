@@ -23,7 +23,7 @@ header {
     width: 100vw;
     text-align: center;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 .nav-bar ul {
     padding-left: 0;
@@ -63,8 +63,8 @@ header {
 .section-left {
     flex: 1;
     margin-left: 15vw;
-    margin-top: 20vh;
-    flex-grow: 4
+    margin-top: 25vh;
+    flex-grow: 4;
     
 }
 .section-left h1 {
@@ -221,7 +221,7 @@ footer a:hover {
     .section-left h1 {
         font-size: 6em;
         line-height: 10px;
-        margin-bottom: 1.8em;
+        margin-bottom: 1em;
         padding: 5px 10px;
     }
     .section-left h3 {
@@ -229,14 +229,15 @@ footer a:hover {
         line-height: 0;
         text-transform: uppercase;
         letter-spacing: 0.12em;
-        font-size: 2em;
-        padding-bottom: 30px;
+        font-size: 2.2em;
+        padding:0 10px 40px 10px;
+        text-align: center;
     }
     .section-left p {
         font-size: 1.9em;
         color: rgb(44, 43, 43);
-        line-height: 1.2em;
-        padding: 0 10px;
+        line-height: 1.6em;
+        padding: 0 30px 0 10px;
     }
     .section-left ul > li {
         padding-left: 15px;
