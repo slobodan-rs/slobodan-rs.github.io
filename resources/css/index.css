@@ -3,7 +3,7 @@ html {
     font-size: 62.5%;
 }
 body {
-    font-family: "Exo 2", "Trebuchet MS", Helvetica, sans-serif;
+    font-family: 'Exo 2', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,7 +23,7 @@ header {
     width: 100vw;
     text-align: center;
     font-weight: bold;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
 }
 .nav-bar ul {
     padding-left: 0;
@@ -47,7 +47,7 @@ header {
     width: 50%;
     text-align: center;
     margin: auto;
-    padding-top: 8%;
+    padding-top: 20vh;
 }
 /* -------------- Main ----------------- */
 #who {
