@@ -88,7 +88,7 @@ header {
     font-size: 1.8rem;
     color: rgb(44, 43, 43);
     line-height: 1.2em;
-    padding-right: 90px;
+    padding-right: 150px;
 }
 .second-paragraph {
     padding-top: 0px;
@@ -112,6 +112,9 @@ header {
     flex: 2;
     margin-right: 10vw;
     margin-top: 12vh;
+}
+.section-right img {
+    width: 100%;
 }
 #work {
     width: 100vw;
@@ -211,14 +214,17 @@ footer a:hover {
         height: 100vh;
     }
     .section-right {
-        display: none;
+        flex: 1;
+        width: 100px;
+        height: 100px;
+        padding-top: 20px;
     }
     .section-left {
         flex: 1;
         margin-left: 0;
-        margin-top: 10vh;
-        flex-grow: 4;
-        padding: 20px;
+        margin-top: 15vh;
+        flex-grow: 5;
+        padding: 10px;
         
     }
     .section-left h1 {
@@ -228,19 +234,14 @@ footer a:hover {
         padding: 5px 10px;
     }
     .section-left h3 {
-        color: #1544c0;
-        line-height: 0;
-        text-transform: uppercase;
-        letter-spacing: 0.12em;
-        font-size: 2.2em;
-        padding:0 10px 40px 10px;
-        text-align: center;
+        font-size: 2em;
+        padding:0 2px 20px 10px;
     }
     .section-left p {
-        font-size: 1.9em;
+        font-size: 1.7em;
         color: rgb(44, 43, 43);
         line-height: 1.6em;
-        padding: 0 30px 0 10px;
+        padding: 0 0px 0 10px;
     }
     .section-left ul > li {
         padding-left: 15px;
