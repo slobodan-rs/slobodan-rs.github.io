@@ -8,6 +8,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     width: 100vw;
+    overflow-x: hidden;
     
     
 }
@@ -63,7 +64,7 @@ header {
 .section-left {
     flex: 1;
     margin-left: 15vw;
-    margin-top: 25vh;
+    margin-top: 20vh;
     flex-grow: 4;
     
 }
