@@ -49,7 +49,7 @@ header {
     width: 50%;
     text-align: center;
     margin: auto;
-    padding-top: 10%;
+    padding-top: 7%;
 }
 /* -------------- Main ----------------- */
 #who {
@@ -118,7 +118,7 @@ header {
 }
 #work {
     width: 100vw;
-    height: 90vh;
+    height: 80vh;
     background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%);
     font-weight: 800;
     text-align: center;
