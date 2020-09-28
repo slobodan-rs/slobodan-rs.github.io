@@ -4,6 +4,7 @@ html {
 }
 body {
     font-family: 'Exo 2', sans-serif;
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -58,12 +59,12 @@ header {
     width: 100vw;
     height: 100vh;
     background: linear-gradient(72deg, rgba(185,185,185,1) 0%, rgba(228,228,228,1) 37%, rgba(255,255,255,1) 60%);
-    font-weight: 800;
+    font-weight: 200;
     text-align: left;
 }
 .section-left {
     flex: 1;
-    margin-left: 15vw;
+    margin-left: 10vw;
     margin-top: 20vh;
     flex-grow: 4;
     
@@ -110,7 +111,7 @@ header {
 .section-right{
     flex: 2;
     margin-right: 10vw;
-    margin-top: 20vh;
+    margin-top: 12vh;
 }
 #work {
     width: 100vw;
