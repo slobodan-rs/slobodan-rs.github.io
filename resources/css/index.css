@@ -49,7 +49,7 @@ header {
     width: 50%;
     text-align: center;
     margin: auto;
-    padding-top: 20vh;
+    padding-top: 10%;
 }
 /* -------------- Main ----------------- */
 #who {
@@ -65,7 +65,7 @@ header {
 .section-left {
     flex: 1;
     margin-left: 10vw;
-    margin-top: 20vh;
+    margin-top: 10%;
     flex-grow: 4;
     
 }
@@ -123,7 +123,7 @@ header {
     font-weight: 800;
     text-align: center;
     margin-top: 0;
-    padding-top: 10vh;
+    padding-top: 20vh;
 }
 #work h1 {
     color: white;
