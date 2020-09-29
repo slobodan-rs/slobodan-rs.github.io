@@ -240,7 +240,7 @@ footer a:hover {
     }
     #who {
         width: 100vw;
-        height: 100vh;
+        height: 100%;
     }
     .section-right {
         flex: 1;
@@ -282,20 +282,19 @@ footer a:hover {
         padding-top: 0vh;
         height:100%;
     }
+    .recent-work-header {
+        padding: 10px;
+    }
     .recent-work {
         font-size: 2.3em;
-        padding: 30px 20px;
+        padding: 40px;
     }
     .project {
         padding: 20px 60px;
     }
-    .recent-work-header {
-        padding-bottom: 60px;
-    }
     .recent-work-header h1 {
         line-height: 0.1;
         font-size: 7em;
-        padding-top: 0;
     }
     .github-link {
         font-size: 2em;
