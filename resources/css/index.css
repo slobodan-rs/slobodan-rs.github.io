@@ -8,9 +8,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     width: 100vw;
-    overflow-x: hidden;
-    
-    
+    overflow-x: hidden; 
 }
 /* -------------- Header ----------------- */
 header {
@@ -118,7 +116,7 @@ header {
 }
 #work {
     width: 100vw;
-    height: 100%;
+    height: 100vh;
     background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%);
     font-weight: 800;
     text-align: center;
@@ -126,12 +124,12 @@ header {
 }
 .recent-work-header {
     padding: 0;
-    padding-bottom: 5rem;
+    padding: 5rem;
 }
 .recent-work-header h1 {
     color: white;
     line-height: 0.1;
-    font-size: 9rem;
+    font-size: 10rem;
 }
 .recent-work-header h1::first-letter {
     font-size: 120%;
@@ -155,8 +153,8 @@ header {
     justify-content: justify;
     flex-wrap: wrap;
     font-size: 3rem;
-    margin: 0;
-    padding: 10rem;
+    margin-top: 5rem;
+    padding: 10rem 5rem;
 }
 .recent-work a {
     text-decoration: none;
