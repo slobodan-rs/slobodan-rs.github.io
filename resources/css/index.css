@@ -122,6 +122,7 @@ header {
     background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%);
     font-weight: 800;
     text-align: center;
+    padding-top: 7rem;
 }
 .recent-work-header {
     padding-bottom: 10rem;
@@ -129,7 +130,7 @@ header {
 .recent-work-header h1 {
     color: white;
     line-height: 0.1;
-    font-size: 11rem;
+    font-size: 8rem;
 }
 .recent-work-header h1::first-letter {
     font-size: 120%;
@@ -140,7 +141,7 @@ header {
     border: 2px solid white;
     background-color: inherit;
     text-decoration: none;
-    border-radius: 1rem;
+    border-radius: 10rem;
     color: black;
 }
 .github-link:hover {
@@ -152,7 +153,7 @@ header {
     display: flex;
     justify-content: justify;
     flex-wrap: wrap;
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 0;
     padding: 10rem;
 }
