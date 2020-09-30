@@ -116,7 +116,7 @@ header {
 }
 #work {
     width: 100vw;
-    height: 110vh;
+    height: 1000px;
     background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%);
     font-weight: 800;
     text-align: center;
