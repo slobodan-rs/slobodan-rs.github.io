@@ -164,6 +164,7 @@ header {
     transform: scale(1.3);
 	text-decoration: none;
     transition: all .3s ease-in-out;
+    cursor: pointer;
 }
 .project a:hover {
     transition: color .3s ease-in-out;
@@ -180,7 +181,7 @@ button:hover {
 }
 #back-to-top-hidden {
     display: none;
-  }
+}
   #back-to-top {
     position: fixed;
     bottom: 30px;
@@ -194,7 +195,37 @@ button:hover {
     cursor: pointer;
     padding: 5px 12px;
     border-radius: 50%;
-  }
+}
+.project-nav {
+    font-size: 1.6rem;
+    height: 10rem;
+}
+.project-nav a{
+    margin: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    float: right;
+    border-radius: 10px;
+}
+.project-nav a:hover{
+    border: 2px solid  #f55e3c;
+    background-color:  #f55e3c;
+}
+.discription {
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+    font-size: 2rem;
+}
+.img-container {
+    background-color: rgba(185,185,185,1);
+    padding: 50px 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
 /*--------------Foooter---------------*/
 footer {
     width: 100vw;
