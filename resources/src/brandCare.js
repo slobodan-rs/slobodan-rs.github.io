@@ -10,7 +10,7 @@ projectBrandCareButton.addEventListener('click', () => {
         <div class="discription">
             <div>  
                 <h2>Brand Care Distribution</h2>
-                <p>A website for a small company, developed using a template and technologies HTML5, CSS3 and JavaScript</p>                               
+                <p>A website for a small company, developed using a template and HTML5, CSS3 and JavaScript technology</p>                               
             </div>
         </div>
         <div class="img-container">

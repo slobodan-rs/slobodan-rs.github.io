@@ -10,7 +10,7 @@ projectMakiboButton.addEventListener('click', () => {
         <div class="discription">
             <div>  
                 <h2>Makibo Group</h2>
-                <p>A website for a small company, developed using with custom UX design and technologies HTML5 and CSS3</p>                               
+                <p>A website for a small company, developed using with custom UX design and HTML5 and CSS3 technologies</p>                               
             </div>
         </div>
         <div class="img-container">

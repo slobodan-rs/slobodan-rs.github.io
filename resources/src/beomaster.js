@@ -10,7 +10,7 @@ projectBeomasterButton.addEventListener('click', () => {
         <div class="discription">
             <div>  
                 <h2>Beomaster Nekretnine</h2>
-                <p>A website for a small company, developed using with custom UX design and Wordpress technology</p>                               
+                <p>A website for a small company, developed with custom UX design and Wordpress technology</p>                               
             </div>
         </div>
         <div class="img-container">
