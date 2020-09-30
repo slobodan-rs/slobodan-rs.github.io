@@ -172,6 +172,7 @@ header {
 
 }
 .project {
+    font-weight: 200;
     flex: 1;
     border-radius: 30px;
 }
