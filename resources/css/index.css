@@ -116,7 +116,7 @@ header {
 }
 #work {
     width: 100vw;
-    height: 100vh;
+    height: 110vh;
     background: linear-gradient(40deg, #fdcd3b 60%, #ffed4b 60%);
     font-weight: 800;
     text-align: center;
@@ -214,7 +214,7 @@ button:hover {
 }
 .discription {
     width: 100vw;
-    height: 20vh;
+    height: 22vh;
     text-align: center;
     font-size: 2rem;
     font-weight: 200;
